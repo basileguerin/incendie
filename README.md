@@ -22,3 +22,5 @@ Application Streamlit qui est capable de :
 - Stocker les détections en base de données
 
 Le code de l'application est contenu dans le fichier `app.py`.
+
+Vidéo qui montre le fonctionnement de l'application : `vidéo démo.mkv`
