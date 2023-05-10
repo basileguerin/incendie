@@ -1,0 +1,4 @@
+train : C:\Users\utilisateur\Documents\workspace\traitement_image\YOLO\incendie\images\train
+val : C:\Users\utilisateur\Documents\workspace\traitement_image\YOLO\incendie\images\validation
+nc : 2
+names : ["fire", "smoke"]
